@@ -1,0 +1,5 @@
+*.py.swp
+*.pyc
+*.json
+**/lastfailed
+**/nodeids
