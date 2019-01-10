@@ -1,0 +1,17 @@
+[
+  "twelve_days_test.py::TwelveDaysTest::test_first_three_verses_of_the_song",
+  "twelve_days_test.py::TwelveDaysTest::test_the_whole_song",
+  "twelve_days_test.py::TwelveDaysTest::test_three_verses_from_the_middle_of_the_song",
+  "twelve_days_test.py::TwelveDaysTest::test_verse1",
+  "twelve_days_test.py::TwelveDaysTest::test_verse10",
+  "twelve_days_test.py::TwelveDaysTest::test_verse11",
+  "twelve_days_test.py::TwelveDaysTest::test_verse12",
+  "twelve_days_test.py::TwelveDaysTest::test_verse2",
+  "twelve_days_test.py::TwelveDaysTest::test_verse3",
+  "twelve_days_test.py::TwelveDaysTest::test_verse4",
+  "twelve_days_test.py::TwelveDaysTest::test_verse5",
+  "twelve_days_test.py::TwelveDaysTest::test_verse6",
+  "twelve_days_test.py::TwelveDaysTest::test_verse7",
+  "twelve_days_test.py::TwelveDaysTest::test_verse8",
+  "twelve_days_test.py::TwelveDaysTest::test_verse9"
+]

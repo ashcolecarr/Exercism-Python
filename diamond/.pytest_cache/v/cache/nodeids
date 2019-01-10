@@ -1,0 +1,7 @@
+[
+  "diamond_test.py::DiamondTest::test_degenerate_case_with_a_single_row",
+  "diamond_test.py::DiamondTest::test_degenerate_case_with_two_rows",
+  "diamond_test.py::DiamondTest::test_largest_possible_diamond",
+  "diamond_test.py::DiamondTest::test_smallest_non_degenerate_case_with_even_diamond_side_length",
+  "diamond_test.py::DiamondTest::test_smallest_non_degenerate_case_with_odd_diamond_side_length"
+]

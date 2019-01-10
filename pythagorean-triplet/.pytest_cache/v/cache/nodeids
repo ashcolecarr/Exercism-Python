@@ -1,0 +1,9 @@
+[
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_no_triplet_exists",
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_several_matching_triplets",
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_triplets_for_large_numbers",
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_triplets_sum_1000",
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_triplets_sum_108",
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_triplets_sum_12",
+  "pythagorean_triplet_test.py::PythagoreanTripletTest::test_two_matching_triplets"
+]

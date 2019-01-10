@@ -1,0 +1,8 @@
+[
+  "rail_fence_cipher_test.py::RailFenceCipherTest::test_decode_with_five_rails",
+  "rail_fence_cipher_test.py::RailFenceCipherTest::test_decode_with_six_rails",
+  "rail_fence_cipher_test.py::RailFenceCipherTest::test_decode_with_three_rails",
+  "rail_fence_cipher_test.py::RailFenceCipherTest::test_encode_with_ending_in_the_middle",
+  "rail_fence_cipher_test.py::RailFenceCipherTest::test_encode_with_three_rails",
+  "rail_fence_cipher_test.py::RailFenceCipherTest::test_encode_with_two_rails"
+]
