@@ -1,0 +1,16 @@
+[
+  "house_test.py::HouseTest::test_full_rhyme",
+  "house_test.py::HouseTest::test_multiple_verses",
+  "house_test.py::HouseTest::test_verse_10",
+  "house_test.py::HouseTest::test_verse_11",
+  "house_test.py::HouseTest::test_verse_12",
+  "house_test.py::HouseTest::test_verse_eight",
+  "house_test.py::HouseTest::test_verse_five",
+  "house_test.py::HouseTest::test_verse_four",
+  "house_test.py::HouseTest::test_verse_nine",
+  "house_test.py::HouseTest::test_verse_one",
+  "house_test.py::HouseTest::test_verse_seven",
+  "house_test.py::HouseTest::test_verse_six",
+  "house_test.py::HouseTest::test_verse_three",
+  "house_test.py::HouseTest::test_verse_two"
+]

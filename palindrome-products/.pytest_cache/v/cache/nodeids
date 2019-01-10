@@ -1,0 +1,14 @@
+[
+  "palindrome_products_test.py::PalindromeProductsTest::test_empty_for_largest_palindrome_if_none_in_range",
+  "palindrome_products_test.py::PalindromeProductsTest::test_empty_for_smallest_palindrome_if_none_in_range",
+  "palindrome_products_test.py::PalindromeProductsTest::test_error_for_largest_if_min_is_more_than_max",
+  "palindrome_products_test.py::PalindromeProductsTest::test_error_for_smallest_if_min_is_more_than_max",
+  "palindrome_products_test.py::PalindromeProductsTest::test_largest_palindrome_from_double_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_largest_palindrome_from_four_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_largest_palindrome_from_single_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_largest_palindrome_from_triple_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_smallest_palindrome_from_double_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_smallest_palindrome_from_four_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_smallest_palindrome_from_single_digit_factors",
+  "palindrome_products_test.py::PalindromeProductsTest::test_smallest_palindrome_from_triple_digit_factors"
+]

@@ -1,0 +1,4 @@
+{
+  "tree_building_test.py::TreeBuildingTest::test_binary_tree": true,
+  "tree_building_test.py::TreeBuildingTest::test_unbalanced_tree": true
+}

@@ -1,0 +1,10 @@
+[
+  "beer_song_test.py::BeerSongTest::test_all_verses",
+  "beer_song_test.py::BeerSongTest::test_first_generic_verse",
+  "beer_song_test.py::BeerSongTest::test_first_two_verses",
+  "beer_song_test.py::BeerSongTest::test_last_generic_verse",
+  "beer_song_test.py::BeerSongTest::test_last_three_verses",
+  "beer_song_test.py::BeerSongTest::test_verse_with_one_bottle",
+  "beer_song_test.py::BeerSongTest::test_verse_with_two_bottles",
+  "beer_song_test.py::BeerSongTest::test_verse_with_zero_bottles"
+]

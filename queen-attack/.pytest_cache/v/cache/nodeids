@@ -1,0 +1,15 @@
+[
+  "queen_attack_test.py::QueenAttackTest::test_attack_diagonal1",
+  "queen_attack_test.py::QueenAttackTest::test_attack_diagonal2",
+  "queen_attack_test.py::QueenAttackTest::test_attack_diagonal3",
+  "queen_attack_test.py::QueenAttackTest::test_attack_diagonal4",
+  "queen_attack_test.py::QueenAttackTest::test_attack_false",
+  "queen_attack_test.py::QueenAttackTest::test_attack_same_column",
+  "queen_attack_test.py::QueenAttackTest::test_attack_same_row",
+  "queen_attack_test.py::QueenAttackTest::test_queen_invalid_column",
+  "queen_attack_test.py::QueenAttackTest::test_queen_invalid_row",
+  "queen_attack_test.py::QueenAttackTest::test_queen_negative_column",
+  "queen_attack_test.py::QueenAttackTest::test_queen_negative_row",
+  "queen_attack_test.py::QueenAttackTest::test_queen_valid_position",
+  "queen_attack_test.py::QueenAttackTest::test_queens_same_position_can_attack"
+]

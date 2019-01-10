@@ -1,0 +1,15 @@
+[
+  "circular_buffer_test.py::CircularBufferTest::test_alternate_write_and_read",
+  "circular_buffer_test.py::CircularBufferTest::test_cant_write_to_full_buffer",
+  "circular_buffer_test.py::CircularBufferTest::test_clear_does_nothing_on_empty_buffer",
+  "circular_buffer_test.py::CircularBufferTest::test_clear_free_buffer_for_write",
+  "circular_buffer_test.py::CircularBufferTest::test_clearing_buffer",
+  "circular_buffer_test.py::CircularBufferTest::test_overwrite_non_full_buffer",
+  "circular_buffer_test.py::CircularBufferTest::test_overwrite_replaces_oldest_item",
+  "circular_buffer_test.py::CircularBufferTest::test_overwrite_replaces_oldest_remaining_item",
+  "circular_buffer_test.py::CircularBufferTest::test_read_back_oldest_item",
+  "circular_buffer_test.py::CircularBufferTest::test_read_empty_buffer",
+  "circular_buffer_test.py::CircularBufferTest::test_read_just_written_item",
+  "circular_buffer_test.py::CircularBufferTest::test_write_and_read_back_multiple_items_ordered",
+  "circular_buffer_test.py::CircularBufferTest::test_write_and_read_back_one_item"
+]

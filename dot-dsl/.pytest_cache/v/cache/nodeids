@@ -1,0 +1,14 @@
+[
+  "dot_dsl_test.py::DotDslTest::test_empty_graph",
+  "dot_dsl_test.py::DotDslTest::test_graph_with_attributes",
+  "dot_dsl_test.py::DotDslTest::test_graph_with_one_attribute",
+  "dot_dsl_test.py::DotDslTest::test_graph_with_one_edge",
+  "dot_dsl_test.py::DotDslTest::test_graph_with_one_node",
+  "dot_dsl_test.py::DotDslTest::test_graph_with_one_node_with_keywords",
+  "dot_dsl_test.py::DotDslTest::test_malformed_EDGE",
+  "dot_dsl_test.py::DotDslTest::test_malformed_attr",
+  "dot_dsl_test.py::DotDslTest::test_malformed_graph",
+  "dot_dsl_test.py::DotDslTest::test_malformed_graph_item",
+  "dot_dsl_test.py::DotDslTest::test_malformed_node",
+  "dot_dsl_test.py::DotDslTest::test_unknown_item"
+]

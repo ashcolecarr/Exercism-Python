@@ -1,0 +1,6 @@
+[
+  "etl_test.py::EtlTest::test_a_single_letter",
+  "etl_test.py::EtlTest::test_multiple_scores_with_differing_numbers_of_letters",
+  "etl_test.py::EtlTest::test_multiple_scores_with_multiple_letters",
+  "etl_test.py::EtlTest::test_single_score_with_multiple_letters"
+]

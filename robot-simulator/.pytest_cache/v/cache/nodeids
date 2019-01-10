@@ -1,0 +1,16 @@
+[
+  "robot_simulator_test.py::RobotSimulatorTest::test_advance_negative_south",
+  "robot_simulator_test.py::RobotSimulatorTest::test_advance_negative_west",
+  "robot_simulator_test.py::RobotSimulatorTest::test_advance_positive_east",
+  "robot_simulator_test.py::RobotSimulatorTest::test_advance_positive_north",
+  "robot_simulator_test.py::RobotSimulatorTest::test_move_east_north",
+  "robot_simulator_test.py::RobotSimulatorTest::test_move_east_north_from_README",
+  "robot_simulator_test.py::RobotSimulatorTest::test_move_west_north",
+  "robot_simulator_test.py::RobotSimulatorTest::test_move_west_south",
+  "robot_simulator_test.py::RobotSimulatorTest::test_robot_created_with_negative_position_values",
+  "robot_simulator_test.py::RobotSimulatorTest::test_robot_created_with_position_and_direction",
+  "robot_simulator_test.py::RobotSimulatorTest::test_rotate_simulate_L",
+  "robot_simulator_test.py::RobotSimulatorTest::test_rotate_simulate_R",
+  "robot_simulator_test.py::RobotSimulatorTest::test_rotate_turn_left",
+  "robot_simulator_test.py::RobotSimulatorTest::test_rotate_turn_right"
+]
