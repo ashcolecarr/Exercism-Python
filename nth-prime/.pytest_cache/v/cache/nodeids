@@ -1,8 +1,0 @@
-[
-  "nth_prime_test.py::NthPrimeTest::test_big_prime",
-  "nth_prime_test.py::NthPrimeTest::test_first_prime",
-  "nth_prime_test.py::NthPrimeTest::test_first_twenty_primes",
-  "nth_prime_test.py::NthPrimeTest::test_second_prime",
-  "nth_prime_test.py::NthPrimeTest::test_sixth_prime",
-  "nth_prime_test.py::NthPrimeTest::test_there_is_no_zeroth_prime"
-]
